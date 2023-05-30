@@ -1,0 +1,11 @@
+[package]
+edition = "2021"
+name = "sensemaker_bridge"
+version = "0.0.1"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+name = "sensemaker_bridge"
+
+[dependencies]
+hdk = "0.1.0"
