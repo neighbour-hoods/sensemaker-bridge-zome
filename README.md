@@ -1,2 +1,2 @@
 # Sensemaker Bridge Zome
-Mix this zome into your sensemaker compatible hApp to enable your neighbourhood sensmaker instance to make bridge calls to your provider hApp.
+Mix this zome into the DNAs of your sensemaker compatible hApp so that the sensemaker can make bridge calls to your provider DNAs and do things like resolve resource entry hashes.
